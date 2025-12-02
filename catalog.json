@@ -1,6 +1,6 @@
 {
   "name": "QuPath-NKI catalog",
-  "description": "QuPath extensions by the NKI.",
+  "description": "Extensions maintained by the NKI.",
   "extensions": [
       {
       "name": "QuPath SlideScore extension",
