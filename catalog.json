@@ -10,6 +10,17 @@
       "starred": false,
       "releases": [
         {
+        "name": "v0.7.0",
+        "main_url": "https://github.com/SlideScore/qupath-extension-slidescore/releases/download/v.0.7.0/qupath-extension-slidescore-0.7.0.jar",
+        "required_dependency_urls": [],
+        "optional_dependency_urls": [],
+        "javadoc_urls": [],
+        "version_range": {
+          "min": "v0.6.0",
+          "excludes": []
+          }
+        },
+        {
         "name": "v0.6.1",
         "main_url": "https://github.com/SlideScore/qupath-extension-slidescore/releases/download/v.0.6.1/qupath-extension-slidescore-0.6.1.jar",
         "required_dependency_urls": [],
